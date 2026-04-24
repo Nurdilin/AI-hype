@@ -27,3 +27,11 @@ It includes:
  - System instructions
 
 You can see your current context usage with /context in the copilot CLI.
+
+**RAG / Retrieval Augmented Generation:** 
+
+A technique that enriches LLM prompts by pulling relevant context from external sources using a vector database before generating an answer.
+
+**Model Context Protocol / MCP :**
+
+A standardized way for AI models to securely connect and interact with external data sources, tools, and repositories.
