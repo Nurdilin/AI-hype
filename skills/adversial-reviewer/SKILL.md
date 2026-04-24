@@ -1,11 +1,11 @@
 ---
-name: adversarial-review
+name: adversarial-reviewer
 description: Runs an adversarial multi-model code/content review using Claude Sonnet 4.6, Claude Opus 4.6, GPT-5.4, and GPT-5.3-Codex. Each model independently reviews the input, then all models critique each other's findings, and a final synthesis produces a definitive list of improvement suggestions.
 ---
 
 ## Adversarial Multi-Model Review Skill
 
-When the user asks for an **adversarial review**, a **multi-model review**, or invokes this skill with something like:
+When the user asks for an **need an adversarial reviewer**, **adversarial review**, a **multi-model review**, or invokes this skill with something like:
 - "adversarial review this"
 - "run a multi-model review on ..."
 - "get all models to review ..."
